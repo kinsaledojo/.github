@@ -1,7 +1,12 @@
-# IS Details
+---
+name: Default Template
+about: Default Issue Template
+title: ""
+labels: none
+assignees: anthonygnolan
 
-<!--- Provide a general summary of your changes in the Title above -->
+---
 
-## Description
+**Describe the issue**
+A clear and concise description of what the bug is.
 
-<!--- Describe the issue in detail -->
