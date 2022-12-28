@@ -3,16 +3,16 @@
 
 ### What we are working on
 
-#### Wordpress Themes
+#### WordPress Themes
 
-We know a lot of our friend use Wordpress for their CoderDojo sites and we are no different. We have been working on a few themes to help with this.
+We know a lot of our friend use WordPress for their CoderDojo sites and we are no different. We have been working on a few themes to help with this.
 
   - [CoderDojo Fourteen](https://github.com/kinsaledojo/coderdojofourteen)
   - [CoderDojo Sixteen](https://github.com/kinsaledojo/coderdojosixteen)
   - [CoderDojo Eighteen](https://github.com/kinsaledojo/coderdojoeighteen)
   - [CoderDojo Twenty-Two](https://github.com/kinsaledojo/coderdojotwentytwo)
   
-#### Wordpress Plugins
+#### WordPress Plugins
 
 To match these themes we also have a suit of plugins to improve functionality.
 
