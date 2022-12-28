@@ -16,9 +16,9 @@ We know a lot of our friend use Wordpress for their CoderDojo sites and we are n
 
 To match these themes we also have a suit of plugins to improve functionality.
 
+  - [CoderDojo Zen](https://github.com/kinsaledojo/coderdojo-zen)
+  - [CoderDojo Kata](https://github.com/kinsaledojo/coderdojo-kata)
   - [CoderDojo Groups](https://github.com/kinsaledojo/coderdojo-groups)
-  - [CoderDojo Resources](https://github.com/kinsaledojo/coderdojo-resources)
-  - [CoderDojo Awards](https://github.com/kinsaledojo/coderdojo-awards)
   - [CoderDojo Events](https://github.com/kinsaledojo/coderdojo-events)
 ​
 #### CoderDojo Zen
